@@ -1492,7 +1492,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="171.45" y="11.43" size="2.54" layer="94">Marshall Taylor</text>
-<text x="238.252" y="7.112" size="2.54" layer="94">v13</text>
+<text x="238.252" y="7.112" size="2.54" layer="94">v20</text>
 <text x="176.276" y="6.604" size="2.54" layer="94">Elias Santistevan</text>
 <text x="148.336" y="6.604" size="2.54" layer="94">Revision By:</text>
 <text x="147.32" y="38.1" size="2.54" layer="94">LilyPad concept and shpaes by:
