@@ -1,7 +1,7 @@
 SparkFun LilyPad Button Board
 ========================================
 
-![SparkFun LilyPad Button Board](https://cdn.sparkfun.com//assets/parts/1/9/9/6/08776-01.jpg)
+![SparkFun LilyPad Button Board](https://cdn.sparkfun.com/assets/parts/1/9/9/6/08776-LilyPad_Button_Board-01.jpg)
 
 [*SparkFun LilyPad Button Board (DEV-08776)*](https://www.sparkfun.com/products/8776)
 
@@ -12,6 +12,9 @@ Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lilypad-buttons-and-switches)** - Basic hookup guide for the button.
 
 License Information
 -------------------
