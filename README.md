@@ -1,7 +1,7 @@
 SparkFun LilyPad Button Board
 ========================================
 
-[![SparkFun LilyPad Button Board](https://cdn.sparkfun.com/assets/parts/1/9/9/6/08776-LilyPad_Button_Board-01.jpg)](https://www.sparkfun.com/products/8776)
+[![SparkFun LilyPad Button Board](https://cdn.sparkfun.com/r/300-300/assets/parts/1/9/9/6/08776-LilyPad_Button_Board-01.jpg)](https://www.sparkfun.com/products/8776)
 
 [*SparkFun LilyPad Button Board (DEV-08776)*](https://www.sparkfun.com/products/8776)
 
