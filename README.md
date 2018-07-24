@@ -30,3 +30,5 @@ Distributed as-is; no warranty is given.
 - Your friends at SparkFun.
 
 _<COLLABORATION CREDIT>_
+
+_Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles._
